@@ -1,0 +1,107 @@
+body{
+background-color: rgb(30, 92, 98);
+padding: 0.5cm;
+}
+
+h2{
+  font-family: fantasy,cursive;
+}
+
+p{
+  font-family: monospace;
+}
+
+th{
+  font-family: serif;
+  color: rgb(1, 2, 17);
+}
+
+#perfiles-sociales{
+  font-family: cursive;
+
+}
+
+.button{
+  border-radius: 45px;
+  padding: 0.1cm;
+  float: right;
+  margin: 0.5cm;
+  padding: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+
+}
+
+#asunt{
+  margin-left: 1cm;
+}
+#topic{
+  margin-right: 1cm;
+  margin-left: 1cm;
+}
+
+#boton1{
+  background-color: rgb(66, 210,73);
+    color: white;
+}
+
+#boton2{
+  background-color: rgb(215,12,20);
+  color: white;
+}
+
+#boton3{
+  background-color: rgb(15,62,120);
+  color: white;
+}
+
+
+#text{
+  margin-top: 1cm;
+}
+
+
+.all{
+  background-color: white;
+  padding: 0.5cm;
+  border-radius: 15px;
+  border-style: double;
+  border-width: 5px;
+  border-color: black;
+  margin: auto;
+  max-width: 24cm;
+}
+
+.Tabla{
+  border-radius: 5px;
+  border-width: 2px;
+
+}
+
+#titulo{
+  text-align: center;
+}
+
+#Info{
+margin: auto;
+padding: 0.1px;
+}
+
+.Fecha{
+  text-align: center;
+}
+
+.dysplayOn{
+  padding: 4px;
+  text-align: center;
+  font-style: italic;
+  color: white;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  background-color: rgb(153,123,69);
+  border-radius: 1.5px;
+  border-style: groove;
+  border-radius: 25px;
+
+}
